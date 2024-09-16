@@ -72,12 +72,6 @@ GPU: You can choose to use the GPU if the system supports it.
 thông-tin-bổ-sung-additional-information
 
 6. Thông tin bổ sung (Additional Information)
-Tiếng Việt:
-Thêm cảnh báo 18+: Nếu tạo ảnh với nội dung 18+, chương trình sẽ tự động thêm cảnh báo vào ảnh.
-Sử dụng ký tự đặc biệt: Ký tự "█" được hiển thị với hai màu đen và trắng trong terminal để báo hiệu mô hình đang chạy.
-English:
-Add 18+ Warning: If generating images with 18+ content, the program will automatically add a warning to the image.
-Special Characters: The "█" character is displayed in black and white in the terminal to signal that the model is running.
 Liên hệ (Contact):
 Tiếng Việt: Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua email.
 English: For any questions, please contact via email.
