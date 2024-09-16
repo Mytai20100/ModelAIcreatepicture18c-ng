@@ -6,7 +6,7 @@ Cài đặt (Installation)
 Hướng dẫn sử dụng (Usage Guide)
 Tùy chọn (Options)
 Thông tin bổ sung (Additional Information)
-<a name="giới-thiệu-introduction"></a>
+giới-thiệu-introductio
 
 1. Giới thiệu (Introduction)
 Tiếng Việt:
@@ -15,7 +15,7 @@ Dự án này là một mô hình tạo ảnh sử dụng Stable Diffusion. Mô 
 English:
 This project is an image generation model using Stable Diffusion. The model supports generating various types of images from text in different styles, such as realistic and anime images. Additionally, this model can generate an unlimited number of images and supports GPU acceleration for faster processing.
 
-<a name="yêu-cầu-hệ-thống-system-requirements"></a>
+yêu-cầu-hệ-thống-system-requirements
 
 2. Yêu cầu hệ thống (System Requirements)
 Tiếng Việt:
@@ -28,14 +28,14 @@ Python: Version 3.8 or higher.
 Python libraries: torch, diffusers, PIL, os.
 GPU: (optional) If you have an NVIDIA GPU with CUDA installed, the program will use the GPU to accelerate processing.
 Internet: An internet connection is required to download the model from Hugging Face.
-<a name="cài-đặt-installation"></a>
+cài-đặt-installation
 
 3. Cài đặt (Installation)
 Tiếng Việt:
 Cài đặt Python nếu chưa có (https://www.python.org/downloads/)
 Install the required libraries:
 pip install torch diffusers pillow
-<a name="hướng-dẫn-sử-dụng-usage-guide"></a>
+hướng-dẫn-sử-dụng-usage-guide
 
 4. Hướng dẫn sử dụng (Usage Guide)
 Tiếng Việt:
@@ -56,7 +56,7 @@ Realistic images (Stable Diffusion)
 Anime images (Waifu Diffusion)
 Special characters "█" will be displayed in the terminal when the model starts running.
 
-<a name="tùy-chọn-options"></a>
+tùy-chọn-options
 
 5. Tùy chọn (Options)
 Tiếng Việt:
@@ -69,7 +69,7 @@ Style: You can choose between realistic and anime image styles.
 Resolution: Custom resolution input is available (default is 1920x1080).
 GPU: You can choose to use the GPU if the system supports it.
 18+ Content: Option to generate images with 18+ content.
-<a name="thông-tin-bổ-sung-additional-information"></a>
+thông-tin-bổ-sung-additional-information
 
 6. Thông tin bổ sung (Additional Information)
 Tiếng Việt:
