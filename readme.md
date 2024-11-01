@@ -1,4 +1,4 @@
-█ Model - Image Generation using Stable Diffusion
+# Model - Image Generation using Stable Diffusion
 Mục lục (Table of Contents)
 Giới thiệu (Introduction)
 Yêu cầu hệ thống (System Requirements)
@@ -8,7 +8,7 @@ Tùy chọn (Options)
 Thông tin bổ sung (Additional Information)
 giới-thiệu-introductio
 
-1. Giới thiệu (Introduction)
+# 1. Giới thiệu (Introduction)
 Tiếng Việt:
 Dự án này là một mô hình tạo ảnh sử dụng Stable Diffusion. Mô hình hỗ trợ tạo ra nhiều loại ảnh từ văn bản với các phong cách khác nhau như ảnh thực tế và ảnh anime. Đặc biệt, mô hình này có khả năng tạo ra nhiều ảnh không giới hạn và hỗ trợ cả GPU để tăng tốc độ xử lý.
 
@@ -17,7 +17,7 @@ This project is an image generation model using Stable Diffusion. The model supp
 
 yêu-cầu-hệ-thống-system-requirements
 
-2. Yêu cầu hệ thống (System Requirements)
+# 2. Yêu cầu hệ thống (System Requirements)
 Tiếng Việt:
 Python: Phiên bản 3.8 trở lên.
 Các thư viện Python: torch, diffusers, PIL, os.
@@ -30,14 +30,14 @@ GPU: (optional) If you have an NVIDIA GPU with CUDA installed, the program will 
 Internet: An internet connection is required to download the model from Hugging Face.
 cài-đặt-installation
 
-3. Cài đặt (Installation)
+# 3. Cài đặt (Installation)
 Tiếng Việt:
 Cài đặt Python nếu chưa có (https://www.python.org/downloads/)
 Install the required libraries:
 pip install torch diffusers pillow
 hướng-dẫn-sử-dụng-usage-guide
 
-4. Hướng dẫn sử dụng (Usage Guide)
+# 4. Hướng dẫn sử dụng (Usage Guide)
 Tiếng Việt:
 Chạy file Python chính để bắt đầu tạo ảnh:
 python tên_file.py
@@ -58,7 +58,7 @@ Special characters "█" will be displayed in the terminal when the model starts
 
 tùy-chọn-options
 
-5. Tùy chọn (Options)
+# 5. Tùy chọn (Options)
 Tiếng Việt:
 Phong cách: Bạn có thể chọn phong cách ảnh giữa ảnh thực tế và ảnh anime.
 Độ phân giải: Có thể nhập độ phân giải tùy chỉnh cho ảnh (mặc định là 1920x1080).
@@ -71,7 +71,7 @@ GPU: You can choose to use the GPU if the system supports it.
 18+ Content: Option to generate images with 18+ content.
 thông-tin-bổ-sung-additional-information
 
-6. Thông tin bổ sung (Additional Information)
+# 6. Thông tin bổ sung (Additional Information)
 Liên hệ (Contact):
 Tiếng Việt: Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua email.
 English: For any questions, please contact via email.
